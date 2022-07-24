@@ -1,4 +1,0 @@
-Hola, mi nombre es Jose Antonio Escobar Arias
-
-Ver si hay cambios pendientes para hacer
-#git status <- comando para verificar en que estado está mi repositorio
